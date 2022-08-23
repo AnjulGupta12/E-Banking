@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="target/generated-sources/annotations">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="m2e-apt" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="target/generated-test-sources/test-annotations">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="m2e-apt" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-api-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-api-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-chrome-driver-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-chrome-driver-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-chromium-driver-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-chromium-driver-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-devtools-v85-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-devtools-v85-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-devtools-v99-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-devtools-v99-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-devtools-v100-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-devtools-v100-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-devtools-v101-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-devtools-v101-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-edge-driver-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-edge-driver-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-firefox-driver-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-firefox-driver-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-http-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-http-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-ie-driver-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-ie-driver-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-java-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-java-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-json-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-json-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-opera-driver-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-opera-driver-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-remote-driver-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-remote-driver-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-safari-driver-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-safari-driver-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-support-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-support-4.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/async-http-client-2.12.3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/async-http-client-netty-utils-2.12.3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/auto-common-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/auto-service-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/auto-service-annotations-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/byte-buddy-1.12.9.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/checker-qual-3.12.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/error_prone_annotations-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/failsafe-3.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/guava-31.1-jre.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/jakarta.activation-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/jtoml-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/netty-buffer-4.1.76.Final.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/netty-codec-4.1.76.Final.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/netty-codec-http-4.1.76.Final.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/netty-codec-socks-4.1.76.Final.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/netty-common-4.1.76.Final.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/netty-handler-4.1.76.Final.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/netty-handler-proxy-4.1.76.Final.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/netty-reactive-streams-2.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/netty-resolver-4.1.76.Final.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/netty-transport-4.1.76.Final.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/netty-transport-classes-epoll-4.1.76.Final.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/netty-transport-classes-kqueue-4.1.76.Final.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/netty-transport-native-epoll-4.1.76.Final.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/netty-transport-native-kqueue-4.1.76.Final.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/netty-transport-native-unix-common-4.1.76.Final.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/opentelemetry-api-1.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/opentelemetry-context-1.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/opentelemetry-exporter-logging-1.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/opentelemetry-sdk-1.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/opentelemetry-sdk-common-1.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/opentelemetry-sdk-extension-autoconfigure-1.13.0-alpha.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/opentelemetry-sdk-logs-1.13.0-alpha.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/opentelemetry-sdk-metrics-1.13.0-alpha.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/opentelemetry-sdk-trace-1.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/opentelemetry-semconv-1.13.0-alpha.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/reactive-streams-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/lib/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-5.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-examples-5.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-excelant-5.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-javadoc-5.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-ooxml-5.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-ooxml-full-5.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-ooxml-lite-5.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-scratchpad-5.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/auxiliary/batik-anim-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/auxiliary/batik-awt-util-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/auxiliary/batik-bridge-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/auxiliary/batik-codec-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/auxiliary/batik-constants-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/auxiliary/batik-css-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/auxiliary/batik-dom-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/auxiliary/batik-ext-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/auxiliary/batik-gvt-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/auxiliary/batik-i18n-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/auxiliary/batik-parser-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/auxiliary/batik-script-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/auxiliary/batik-shared-resources-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/auxiliary/batik-svg-dom-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/auxiliary/batik-svggen-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/auxiliary/batik-svgrasterizer-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/auxiliary/batik-transcoder-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/auxiliary/batik-util-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/auxiliary/batik-xml-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/auxiliary/bcpkix-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/auxiliary/bcprov-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/auxiliary/bcutil-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/auxiliary/fontbox-2.0.25.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/auxiliary/graphics2d-0.35.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/auxiliary/pdfbox-2.0.25.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/auxiliary/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/auxiliary/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/auxiliary/xmlgraphics-commons-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/auxiliary/xmlsec-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/lib/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/lib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/lib/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/lib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/lib/log4j-api-2.17.2.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/lib/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/ooxml-lib/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/ooxml-lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/ooxml-lib/curvesapi-1.07.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/ooxml-lib/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/Apache POI 5.2.2/poi-bin-5.2.2-20220312/poi-bin-5.2.2/ooxml-lib/xmlbeans-5.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/TestNG/jar_files/jcommander-1.78.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/TestNG/jar_files/jquery-3.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/TestNG/jar_files/jsr305-3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/TestNG/jar_files/slf4j-api-1.7.32.jar"/>
+	<classpathentry kind="lib" path="D:/SoftwareCenterApplications/TestNG/jar_files/testng-7.5.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

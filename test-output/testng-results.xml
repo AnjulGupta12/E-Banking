@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-23T23:05:16 IST" name="Default suite" finished-at="2022-08-23T23:06:12 IST" duration-ms="56528">
+    <groups>
+    </groups>
+    <test started-at="2022-08-23T23:05:16 IST" name="Default test" finished-at="2022-08-23T23:06:12 IST" duration-ms="56528">
+      <class name="ccom.EBank.testscenario.TransactionTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ccom.EBank.testscenario.TransactionTest@4d1c005e]" started-at="2022-08-23T23:05:16 IST" name="setUp" finished-at="2022-08-23T23:05:25 IST" duration-ms="9194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="SignUpTest()[pri:1, instance:ccom.EBank.testscenario.TransactionTest@4d1c005e]" started-at="2022-08-23T23:05:25 IST" name="SignUpTest" finished-at="2022-08-23T23:05:30 IST" duration-ms="4703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUpTest -->
+        <test-method signature="ForgotPassTest()[pri:2, instance:ccom.EBank.testscenario.TransactionTest@4d1c005e]" started-at="2022-08-23T23:05:30 IST" name="ForgotPassTest" finished-at="2022-08-23T23:05:33 IST" duration-ms="3139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForgotPassTest -->
+        <test-method signature="LogInPageCheckTest()[pri:3, instance:ccom.EBank.testscenario.TransactionTest@4d1c005e]" started-at="2022-08-23T23:05:33 IST" name="LogInPageCheckTest" finished-at="2022-08-23T23:05:33 IST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogInPageCheckTest -->
+        <test-method signature="LoginTestCheckTest()[pri:4, instance:ccom.EBank.testscenario.TransactionTest@4d1c005e]" started-at="2022-08-23T23:05:33 IST" name="LoginTestCheckTest" finished-at="2022-08-23T23:05:57 IST" duration-ms="23969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTestCheckTest -->
+        <test-method signature="ViewTransactionsTest()[pri:5, instance:ccom.EBank.testscenario.TransactionTest@4d1c005e]" started-at="2022-08-23T23:05:57 IST" name="ViewTransactionsTest" finished-at="2022-08-23T23:06:06 IST" duration-ms="9009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ViewTransactionsTest -->
+        <test-method signature="ServicesPageTest()[pri:6, instance:ccom.EBank.testscenario.TransactionTest@4d1c005e]" started-at="2022-08-23T23:06:06 IST" name="ServicesPageTest" finished-at="2022-08-23T23:06:09 IST" duration-ms="2965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ServicesPageTest -->
+        <test-method signature="LogOutPageTest()[pri:7, instance:ccom.EBank.testscenario.TransactionTest@4d1c005e]" started-at="2022-08-23T23:06:09 IST" name="LogOutPageTest" finished-at="2022-08-23T23:06:12 IST" duration-ms="2663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOutPageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ccom.EBank.testscenario.TransactionTest@4d1c005e]" started-at="2022-08-23T23:06:12 IST" name="tearDown" finished-at="2022-08-23T23:06:12 IST" duration-ms="561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ccom.EBank.testscenario.TransactionTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
