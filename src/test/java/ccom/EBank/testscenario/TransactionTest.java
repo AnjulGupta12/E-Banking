@@ -51,10 +51,10 @@ public class TransactionTest extends TestBase {
   @Test(priority = 4)
   public void LoginTestCheckTest() {
 	  LogInTestCheck logincheck = new LogInTestCheck();
-	  logincheck.loginWithoutPassword("anihere");
-	  logincheck.loginWithoutUsername("ani123@");
-	  logincheck.loginIncorrectPass("donidontknow","passwhattodo");
-	  logincheck.login("anihere","ani@123");
+	  logincheck.loginWithoutPassword("username");
+	  logincheck.loginWithoutUsername("password");
+	  logincheck.loginIncorrectPass("username","passwhattodo");
+	  logincheck.login("username","password");
   }
 
   @Test(priority = 5)
