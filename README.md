@@ -12,7 +12,7 @@ Password is mandatory</br>
 User ID is mandatory</br>
 User Id does not exist</br>
 LogIn Successful</br>
-Welcome anihere</br>
+Welcome username</br>
 FOR TRANSACTION WINDOW</br>
 On clicking MINI buttonTotal No or Rows: 10</br>
 On clicking DETAILED button detail</br>
