@@ -26,7 +26,7 @@ public class LogInTestCheck extends TestBase {
 		System.out.println("LogIn Successful");
 		wait(300);
 		String expect_login = "Welcome "+uName;
-		String actual_login = driver.findElement(By.id("aniWelcome")).getText();
+		String actual_login = driver.findElement(By.id("userWelcome")).getText();
 		Assert.assertEquals(expect_login, actual_login);
 		System.out.println(actual_login);
 		wait(1000);
